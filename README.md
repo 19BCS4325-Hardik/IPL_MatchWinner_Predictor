@@ -1,7 +1,7 @@
 # IPL_MatchWinner_Predictor
 ## link to the website:- https://share.streamlit.io/19bcs4325-hardik/ipl_matchwinner_predictor/app.py
 ### This is a website which predicts what is the percentage of winning for both the teams by using some input by the user.
-### Here are some Screenshot how website looks:- 
+#### Here are some Screenshot how website looks:- 
 
 
 
