@@ -57,4 +57,4 @@ if st.button('Predict Probability'):
         st.header(batting_team + "- " + str(round(win*100)) + "%")
         st.header(bowling_team + "- " + str(round(loss*100)) + "%")
     except Exception as e:
-        st.header("Error"+e)
+        st.header(e)
